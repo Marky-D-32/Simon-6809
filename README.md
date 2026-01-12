@@ -25,5 +25,4 @@ In order for this game to run on the Tandy Color Computer, the following ROM sub
 | $B3B4 (46004) | $A027 (40999) | RESET:resets whole works, as if reset button has been pressed  |
 
 
-   <img src='./SimonMenu.jpg' width=60%>     
-   <img src='./Simon.jpg' width=60%>     
+ 
